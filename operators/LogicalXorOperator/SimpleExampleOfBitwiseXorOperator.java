@@ -1,4 +1,4 @@
-package Operators.LogicalXorOperator;
+package operators.LogicalXorOperator;
 
 import java.util.Scanner;
 
@@ -11,6 +11,7 @@ public class SimpleExampleOfBitwiseXorOperator {
         int num2=sc.nextInt();
         int result=(num1^num2);
         System.out.println(result);
+        sc.close();
     }
     
 }

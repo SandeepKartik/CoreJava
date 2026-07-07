@@ -1,4 +1,4 @@
-package Operators.BitwiseAndOperator;
+package operators.BitwiseAndOperator;
 
 public class EvenorOddUsingBitwiseAndOperator {
     public static void main(String[] args) {

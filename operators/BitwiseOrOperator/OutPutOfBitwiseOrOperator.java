@@ -1,4 +1,4 @@
-package Operators.BitwiseOrOperator;
+package operators.BitwiseOrOperator;
 
 import java.util.Scanner;
 
@@ -11,6 +11,8 @@ public class OutPutOfBitwiseOrOperator {
         int num2=sc.nextInt();
         int result=(num1|num2);
         System.out.println("The result of Or Operator : "+result);
+        sc.close();
     }
+    
     
 }

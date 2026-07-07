@@ -1,4 +1,4 @@
-package Operators.BitwiseAndOperator;
+package operators.BitwiseAndOperator;
 import java.util.Scanner;
 public class Powerof2UsingBitwiseAndOperator {
     public static void main(String[] args) {
@@ -11,5 +11,6 @@ public class Powerof2UsingBitwiseAndOperator {
         }else{
             System.out.println("The number is not power of 2 ");
         }
+        sc.close();
     }   
 }

@@ -1,6 +1,6 @@
-package Operators;
+package operators;
 
-public class BitwiseAndOperator {
+public class BitwiseAndOp {
     public static void main(String[] args) {
         // find number output 
         int a=10;
