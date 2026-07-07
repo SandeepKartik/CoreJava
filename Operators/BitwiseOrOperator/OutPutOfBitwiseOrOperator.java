@@ -1,8 +1,8 @@
-package Operators.logicalOrOperator;
+package Operators.BitwiseOrOperator;
 
 import java.util.Scanner;
 
-public class OutPutOfLogicalOrOperator {
+public class OutPutOfBitwiseOrOperator {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
         System.out.println("Enter Your First Number : ");
