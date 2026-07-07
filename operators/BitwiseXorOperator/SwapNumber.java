@@ -1,4 +1,4 @@
-package operators.LogicalXorOperator;
+package operators.BitwiseXorOperator;
 
 public class SwapNumber {
     public static void main(String[] args) {
@@ -9,6 +9,7 @@ public class SwapNumber {
          a=a^b;
         System.out.println("a = " + a);
         System.out.println("b = " + b);
+        
 
     }
     

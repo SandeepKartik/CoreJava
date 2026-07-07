@@ -1,4 +1,4 @@
-package operators.LogicalXorOperator;
+package operators.BitwiseXorOperator;
 
 import java.util.Scanner;
 
