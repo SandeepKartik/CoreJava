@@ -1,6 +1,6 @@
-package Operators.LogicalAndOperator;
+package Operators.BitwiseAndOperator;
 
-public class EvenorOddUsingLogicalAndOperator {
+public class EvenorOddUsingBitwiseAndOperator {
     public static void main(String[] args) {
         int num=10;
         if((num&1)==0){

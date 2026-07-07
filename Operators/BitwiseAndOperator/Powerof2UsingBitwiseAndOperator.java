@@ -1,6 +1,6 @@
-package Operators.LogicalAndOperator;
+package Operators.BitwiseAndOperator;
 import java.util.Scanner;
-public class Powerof2UsingLogicalAndOperator {
+public class Powerof2UsingBitwiseAndOperator {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter Your Number : ");
