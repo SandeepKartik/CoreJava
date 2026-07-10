@@ -10,7 +10,7 @@ public class SimpleReverseArray {
             j++;
         }
         for(int num : reverse){
-            System.out.println(num +" ");
+            System.out.println(num +"= ");
         }
     }
     
