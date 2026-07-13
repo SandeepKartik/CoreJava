@@ -1,4 +1,3 @@
-package method;
 
 public class UseOfReturn {
     int add(int a,int b){
