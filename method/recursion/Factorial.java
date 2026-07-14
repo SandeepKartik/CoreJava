@@ -10,7 +10,7 @@ public class Factorial {
       
     }
     public static void main(String[] args) {
-       int ans = factorial(5);
+       int ans = factorial(6);
        System.out.println(ans );
     }
     
