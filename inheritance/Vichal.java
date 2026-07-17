@@ -9,6 +9,7 @@ public class Vichal {
 class Car1 extends Vichal{
     private String name="Audi";
     void run(){
+        System.out.println(super.brand);
         System.out.println("Car is runing");
     }
     void show(){
