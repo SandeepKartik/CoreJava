@@ -16,6 +16,6 @@ class Main2{
     public static void main(String[] args) {
         Animal2 a=new Dog();
         a.sound();
-      a.eat();
+        a.eat();
     }
 }
