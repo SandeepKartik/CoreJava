@@ -9,6 +9,10 @@ public class Student implements Serializable{
         this.id=id;
         this.name=name;
     }
+    void display(){
+        System.out.println(id);
+        System.out.println(name);
+    }
     
 }
 class Main{
