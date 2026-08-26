@@ -13,7 +13,7 @@ public class HashSetDemo {
         k.add(50);
         System.out.println(k);
         // check elements present or not 
-        System.out.println(k.contains("Yes its present : "+50));
+        System.out.println(k.contains("Yes its present : "+k.contains(50)));
         // checking size 
         System.out.println(k.size());
         // removing element
