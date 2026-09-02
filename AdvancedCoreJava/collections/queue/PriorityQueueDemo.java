@@ -15,5 +15,6 @@ public class PriorityQueueDemo {
         System.out.println(pq);
         pq.element();
         System.out.println(pq);
+        System.out.println(pq.isEmpty());
     }
 }
