@@ -16,6 +16,8 @@ public class CollectionDemo2 {
             System.out.println(num);
         }
         System.out.println(c);
+        Object obj=c.toString();
+        System.out.println(obj);
     }
     
 }
