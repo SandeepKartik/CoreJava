@@ -15,7 +15,7 @@ public class Pair <K,V>{
 }
 class Test{
     public static void main(String[] args) {
-        Pair<Integer,String>p=new Pair<Integer,String>(101, "Sam");
+        Pair<Integer,String>p=new Pair<>(101, "Sam");
         p.display();
     }
 }
