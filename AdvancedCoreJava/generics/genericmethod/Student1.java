@@ -7,6 +7,10 @@ public class Student1 {
     public <T> void print(T value){
         System.out.println("Value is : "+ value);
     }
+    // use of return type 
+    public static  <T> T getValue(T value){
+        return  value;
+    }
    
     
 }
@@ -20,5 +24,7 @@ class Test{
         s.print('C');
         Student1.display1(1);
         Student1.display1("Vishal kartik");
+        String name=Student1.getValue("Sam kartik1 ");
+        System.out.println(name);
     }
 }
