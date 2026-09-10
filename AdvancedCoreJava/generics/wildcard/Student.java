@@ -7,6 +7,8 @@ public class Student {
     static void printlist(List<?> list){
         for(Object value :list){
             System.out.println("Value is : "+value);
+            Object v=list.get(0);
+            System.out.println(v);
         }
     }
     
